@@ -1,7 +1,7 @@
 
 ## Descripción General
 
-Proyecto de ventas de un restaurante con Laravel (versión 1.0), junto con metodología RUP.
+Proyecto de ventas de un restaurante con Laravel (versión 1.0), junto con Scrum.
 
 ## Contenido
 
